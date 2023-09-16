@@ -10,8 +10,8 @@ I'm a former accountant turned passionate **Python** developer. With 4 years of 
 * 📝 See my resume at [GitHub](https://github.com/VeraSa785/vera_sa_resume.md)
 * 🖥️  See my portfolio at [Website](https://verasa785.github.io/index.html) 
 * ✉️  You can contact me at [vera.zhokhova@gmail.com](mailto:vera.zhokhova@gmail.com)
-* 🚀  I'm currently working on [Camping Alert Chat Bot](http://github.com/VeraSa785/Camping-Alert-Chat-Bot)
-* 🧠  I'm learning how to parse API from ChatGPT
+* 🚀  I'm currently working on 🏐[Catchball Positioning Web App](https://github.com/VeraSa785/Catchball-Positioning-Simulation)
+* 🧠  I'm learning prompt engineering.
 
 ### Skills
 
