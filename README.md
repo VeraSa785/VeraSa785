@@ -7,7 +7,7 @@ Full Stack Software Engineer
 I'm a former accountant turned passionate **Python** developer. With 4 years of coding experience and training from **Stanford University's Code in Place program**, I've honed my skills in the fundamentals of computer programming. Fortunately, I was accepted into the highly competitive **Ada Developers Academy**, where I received full-stack software development training. I then completed a 6-month internship at **Amazon**, working on actual production code in **Java** and **TypeScript**, and collaborating with a brilliant team. I'm excited to continue growing as a developer and contributing to open-source projects.
 
 * 🌍  I'm based in Bellevue, WA
-* 📝 See my resume at [GitHub](https://github.com/VeraSa785/vera_sa_resume.md)
+* 📝 See my [resume at GitHub](https://github.com/VeraSa785/vera_sa_resume.md)
 * 🖥️  See my portfolio at [Website](https://verasa785.github.io/index.html) 
 * ✉️  You can contact me at [vera.zhokhova@gmail.com](mailto:vera.zhokhova@gmail.com)
 * 🚀  I'm currently working on 🏐[Catchball Positioning Web App](https://github.com/VeraSa785/Catchball-Positioning-Simulation)
