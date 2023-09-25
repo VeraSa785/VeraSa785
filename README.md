@@ -3,8 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full Stack Software Engineer
 ----------------------------
+I am a **full-stack software engineer** with over a year of experience developing web applications using **Python, Java, Kotlin, TypeScript, JavaScript, React, SQL,** and **AWS technologies**. I currently work at **Golf Pad, Inc.**, which provides innovative solutions for golfers and golf courses.
 
-I'm a former accountant turned passionate **Python** developer. With 4 years of coding experience and training from **Stanford University's Code in Place program**, I've honed my skills in the fundamentals of computer programming. Fortunately, I was accepted into the highly competitive **Ada Developers Academy**, where I received full-stack software development training. I then completed a 6-month internship at **Amazon**, working on actual production code in **Java** and **TypeScript**, and collaborating with a brilliant team. I'm excited to continue growing as a developer and contributing to open-source projects.
+My passion for programming stems from my desire to solve problems, optimize processes, and create value for customers. **I have a diverse background in graphic design, and accounting, which gives me a unique perspective and a broad skill set.** I enjoy learning new technologies and frameworks and am always eager to take on new challenges and collaborate with others. Some of my recent achievements include delivering six projects as an intern at Amazon, developing a notification system for Alexa devices, and improving system logging and performance for customer deals.
 
 * 🌍  I'm based in Bellevue, WA
 * 📝 See my [resume at GitHub](https://github.com/VeraSa785/vera_sa_resume.md)
